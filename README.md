@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Nam Yoon Chang (Akgop) 👋
 
 - 🌱 I’m currently learning ...
 

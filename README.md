@@ -1,6 +1,7 @@
 ### 👋 Nam Yoon Chang (Akgop) 👋
 
 - 🌱 I’m currently learning GAN
+- 🌱 I’m currently learning Image Inpainting
 - 🌱 I’m currently learning Algorithms
 
 <!--

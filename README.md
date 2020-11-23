@@ -1,6 +1,7 @@
 ### 👋 Nam Yoon Chang (Akgop) 👋
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning GAN
+- 🌱 I’m currently learning Algorithms
 
 <!--
 **Akgop/Akgop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

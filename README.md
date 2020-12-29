@@ -1,4 +1,6 @@
-### 👋 Nam Yoon Chang (Akgop) 👋
+## Nam Yoon Chang (Akgop)
+
+:student: Kwangwoon Univ (2015.03 ~ )
 
 - 🌱 I’m currently learning GAN
 - 🌱 I’m currently learning Image Inpainting

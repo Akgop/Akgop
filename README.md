@@ -1,13 +1,13 @@
 # Akgop (Nam Yoon Chang)
 
-:student: Kwangwoon Univ. Computer Engineering (2015.03 ~ )
-- 🌱 I’m currently learning GAN
-- 🌱 I’m currently learning Image Inpainting
-- 🌱 I’m currently learning Algorithms
+:computer: Kwangwoon Univ. Computer Engineering (2015.03 ~ )
+- :page_with_curl: I’m currently learning GAN
+- :page_with_curl: I’m currently learning Image Inpainting
+- :page_with_curl: I’m currently learning Algorithms
 
 <br>
 
-## Akgop's Github Stat
+## :bar_chart: Github Stat
 [![Akgop's github stats](https://github-readme-stats.vercel.app/api?username=Akgop&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 

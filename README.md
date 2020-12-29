@@ -1,6 +1,6 @@
 # Akgop (Nam Yoon Chang)
 
-Kwangwoon Univ. Computer Engineering :computer: (2015.03 ~ )
+**Kwangwoon Univ. Computer Engineering :computer: (2015.03 ~ )**
 - :page_with_curl: I’m currently learning GAN
 - :page_with_curl: I’m currently learning Image Inpainting
 - :page_with_curl: I’m currently learning Algorithms

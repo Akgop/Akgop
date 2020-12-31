@@ -9,8 +9,8 @@
 
 ## :bar_chart: Github Stat
 [![Akgop's github stats](https://github-readme-stats.vercel.app/api?username=Akgop&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<br>
+## My Devlog
 <a href="https://akgop.github.io/">
     <img 
         src="http://img.shields.io/badge/-Github%20Blog-181717?style=flat&logo=github&link=https://akgop.github.io/"

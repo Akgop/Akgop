@@ -7,8 +7,15 @@
 </a>
 
 **Kwangwoon Univ. Computer Engineering :computer: (2015.03 ~ )**
-- :page_with_curl: I’m currently learning Algorithms
-- :page_with_curl: I’m currently learning Java, Spring
+
+## 🤔 Interests
+- :page_with_curl: BE, Server
+- :page_with_curl: Java, Python, Node.js
+- :page_with_curl: JSP, Spring Framework, Spring Boot
+<br>
+
+- :page_with_curl: Computer Vision
+- :page_with_curl: GAN, Image Inpainting
 <br>
 
 ## :bar_chart: Github Stat

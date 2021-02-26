@@ -9,7 +9,7 @@
 **Kwangwoon Univ. Computer Engineering :computer: (2015.03 ~ )**
 
 ## 🤔 Interests
-- :page_with_curl: BE, Server
+- :page_with_curl: BE, Server, MSA
 - :page_with_curl: Java, Python, Node.js
 - :page_with_curl: JSP, Spring Framework, Spring Boot
 <br>

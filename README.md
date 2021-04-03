@@ -9,13 +9,11 @@
 **Kwangwoon Univ. Computer Engineering :computer: (2015.03 ~ )**
 
 ## 🤔 Interests
-- :page_with_curl: BE, Server, MSA
-- :page_with_curl: Java, Python, Node.js
-- :page_with_curl: JSP, Spring Framework, Spring Boot
-<br>
-
-- :page_with_curl: Computer Vision
-- :page_with_curl: GAN, Image Inpainting
+- :page_with_curl: BE, Server
+- :page_with_curl: Node.js, Express.js
+- :page_with_curl: Java, Spring
+- :page_with_curl: Python, Algorithms
+- :page_with_curl: Computer Vision, GAN, Image Inpainting
 <br>
 
 ## :bar_chart: Github Stat

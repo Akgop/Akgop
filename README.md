@@ -10,9 +10,9 @@
 
 ## 🤔 Interests
 - :page_with_curl: Back-end, Server, Database
-- :page_with_curl: Node.js, Express.js
+- :page_with_curl: Javascript, Node.js, Express
 - :page_with_curl: Java, Spring
-- :page_with_curl: Python, Algorithms
+- :page_with_curl: Python (Algorithms, DS)
 - :page_with_curl: Computer Vision, GAN, Image Inpainting
 <br>
 

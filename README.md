@@ -9,10 +9,10 @@
 **Kwangwoon Univ. Computer Engineering :computer: (2015.03 ~ )**
 
 ## 🤔 Interests
-- :page_with_curl: Back-end, Server, RESTful API, Database
-- :page_with_curl: Javascript, Node.js, Express
+- :page_with_curl: Back-end, Server, RESTful API
+- :page_with_curl: Javascript, Node.js
 - :page_with_curl: Java, Spring
-- :page_with_curl: Python (Algorithms, DS)
+- :page_with_curl: Problem Solving
 <br>
 
 ## :bar_chart: Github Stat

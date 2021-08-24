@@ -1,12 +1,13 @@
 # Akgop (Nam Yoon Chang)
 
+**Kwangwoon Univ. Computer Engineering :computer: (2015.03 ~ )**
+
+## :open_file_folder: Dev log
 <a href="https://akgop.github.io/">
     <img 
         src="http://img.shields.io/badge/-Github%20Blog-181717?style=flat&logo=github&link=https://akgop.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
-**Kwangwoon Univ. Computer Engineering :computer: (2015.03 ~ )**
 
 ## 🤔 Interests
 - :page_with_curl: Back-end, Server, RESTful API

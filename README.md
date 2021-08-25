@@ -22,11 +22,11 @@
 **Problem Solving**
 - Python
 
-## 🤔 Currently Interested
-**Back-end**
+## 🤔 Currently Studying
 - RESTful API, MSA
 - Authentication - JWT, OAuth
 - Node.js Design Pattern
+- TDD, BDD (Mocha, Chai)
 
 <br>
 

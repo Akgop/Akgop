@@ -9,11 +9,25 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-## 🤔 Interests
-- :page_with_curl: Back-end, Server, RESTful API
-- :page_with_curl: Javascript, Node.js
-- :page_with_curl: Java, Spring
-- :page_with_curl: Problem Solving
+## :joystick: Skills
+**Back-end**
+- Javascript, Node.js, Express
+- MySQL
+- Webstorm, VSCode
+
+**Collaboration**
+- Git, Github
+- Notion
+
+**Problem Solving**
+- Python
+
+## 🤔 Currently Interested
+**Back-end**
+- RESTful API, MSA
+- Authentication - JWT, OAuth
+- Node.js Design Pattern
+
 <br>
 
 ## :bar_chart: Github Stat

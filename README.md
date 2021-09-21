@@ -25,8 +25,9 @@
 ## 🤔 Currently Studying
 - RESTful API, MSA
 - Authentication - JWT, OAuth
-- Node.js Design Pattern
-- TDD, BDD (Mocha, Chai)
+- Node.js Design Pattern - Inversify
+- Testing - Jest
+- Typescript
 
 <br>
 

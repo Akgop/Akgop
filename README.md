@@ -23,13 +23,14 @@
 - Notion
 
 **Problem Solving**
-- Python
+- Python, Java
 
 ## 🤔 Currently Studying & Interests
 - RESTful API
 - Design Pattern, Architecture(MSA)
 - Database
-- Testing(TDD, BDD, DDD)
+- Testing
+- techfin
 
 
 ## :bar_chart: Stats

@@ -1,6 +1,5 @@
 # Akgop (Nam Yoon Chang)
 
-### :open_file_folder: Dev log & Resume
 <a href="https://akgop.github.io/">
     <img 
         src="http://img.shields.io/badge/-Github%20Blog-181717?style=flat&logo=github&link=https://akgop.github.io/"
@@ -24,13 +23,6 @@
 
 **Problem Solving**
 - Python, Java
-
-## 🤔 Currently Studying & Interests
-- RESTful API
-- Design Pattern, Architecture(MSA)
-- Database
-- Testing
-- techfin
 
 
 ## :bar_chart: Stats

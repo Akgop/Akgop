@@ -11,19 +11,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-## :joystick: Skills
-**Back-end**
-- Javascript, Node.js, Express
-- MySQL
-- Webstorm, VSCode
-
-**Collaboration**
-- Git, Github
-- Notion
-
-**Problem Solving**
-- Python, Java
-
 
 ## :bar_chart: Stats
 [![Akgop's github stats](https://github-readme-stats.vercel.app/api?username=Akgop&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)

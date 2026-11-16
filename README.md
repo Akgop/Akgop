@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**Akgop/Akgop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and Platform Engineer based in Ontario, Canada, with 4+ years of experience building and operating distributed systems across e-commerce, marketplace, and robotics platforms.
 
-Here are some ideas to get you started:
+I focus on reliable backend services, event-driven systems, data infrastructure and cloud-native engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience Highlights
+
+- Reduced fleet-wide software rollout time from 6–7 hours to 30–60 minutes across approximately 50 robots.
+- Eliminated sustained consumer lag while building a production log ingestion pipeline.
+- Built and operated a CDC platform using Debezium, Kafka Connect, and Schema Registry.
+- Designed and tested multi-IDC Kafka failover and failback procedures using MirrorMaker2.
+
+## Tech
+
+- **Languages:** Java, Kotlin, Go, Python
+- **Backend:** Spring Boot, Spring WebFlux, Gin
+- **Data & Messaging:** Kafka, Debezium, MySQL, MongoDB, Redis
+- **Infrastructure:** Kubernetes, Helm, Docker
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/david-yoonchang-nam/)
+[Website](https://davidycnam.com/)
